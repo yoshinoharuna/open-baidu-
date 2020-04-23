@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!-- saved from url=(0030)https://pan.baidu.com/download -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta content="网盘,百度网盘,百度云,网络U盘,网络硬盘,免费网盘,网盘下载,网盘资源,同步,云存储,外链分享,离线下载" name="keywords">
+<meta content="百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受2T的免费存储空间" name="description">
+<title>百度网盘 客户端下载</title>
+<link href="./百度网盘 客户端下载_files/yun_download_min-local.css" rel="stylesheet" type="text/css">
+<link href="https://pan.baidu.com/static/images/favicon.ico" rel="shortcut icon" type="images/x-icon">
+<link href="./百度网盘 客户端下载_files/css" rel="stylesheet"></head><span id="warning-container"><i data-reactroot=""></i></span>
+<body>
+<div class="clearfix" id="login-header">
+<div class="logo-main">
+<a class="yun-logo" href="https://yun.baidu.com/" target="_blank" title="百度网盘">百度网盘</a>
+<span class="hd-text clientDownload" title="客户端下载">客户端下载</span>
+</div>
+<span class="login-title">
+<a class="mactbp-tip" href="javascript:void(0);" node-type="mactbp-tip">Mac同步版更新说明</a>
+<a class="b-no-ln" href="javascript:void(0);" id="top_menu_other" target="_blank"></a> <span id="departForAd">|</span> <a class="b-no-ln" hidefocus="true" href="http://www.baidu.com/">百度首页</a> | <a class="b-no-ln" hidefocus="true" href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%CD%F8%C5%CC">官方贴吧</a> | <a class="b-no-ln" hidefocus="true" href="https://pan.baidu.com/disk/version" target="_blank">版本更新</a>
+</span>
+</div>
+<div class="download-cotent" id="download-cotent">
+<div class="download-head">
+<ul class="tab-download clearfix" id="tab-download">
+<li _idx="0" class="on"><a class="windows" href="javascript:;"><span>Windows</span></a></li>
+<li _idx="1"><a class="android" href="javascript:;"><span>Android</span></a></li>
+<li _idx="2"><a class="iphone" href="javascript:;"><span>iPhone</span></a></li>
+<li _idx="3"><a class="ipad" href="javascript:;"><span>iPad</span></a></li>
+<li _idx="4"><a class="wphone" href="javascript:;" style="display:none"><span>WPhone</span></a></li>
+<li _idx="5"><a class="tongbupan" href="javascript:;"><span>tongbupan</span></a></li>
+<li class="last" _idx="6"><a class="linux" href="javascript:;"><span>linux</span></a></li>
+</ul>
+</div>
+<div class="download-info" id="download-info">
+<div class="windows-content content" style="display: block;">
+<div class="content-info">
+<div class="guanjia-c clint" id="guanjia-c">
+<p class="clint-info first">大小：37.1 M</p>
+<p class="clint-info">版本：百度网盘PC版V6.9.4</p>
+<p class="clint-info">适应系统：XP/vista/win7/win8/win10</p>
+<p class="clint-info">更新时间：2020-04-21</p>
+<a class="clint-guanjia" hidefocus="true" href="http://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.9.4.1.exe"></a>
+</div>
+</div>
+</div>
+<div class="android-content content">
+<div class="content-info">
+<div class="android-c clint" id="android-c">
+<p class="clint-info first">大小：107 M</p>
+<p class="clint-info">版本：Android版 V10.0.193</p>
+<p class="clint-info">适应系统：Android 4.1及以上版本 </p>
+<p class="clint-info">更新时间：2020-04-16</p>
+<a class="clint-android" hidefocus="true" href="https://wppkg.baidupcs.com/issue/netdisk/apk/BaiduNetdisk_10.0.193.apk"></a>
+</div>
+</div>
+</div>
+<div class="iphone-content content">
+<div class="content-info">
+<div class="iphone-c clint" id="iphone-c">
+<p class="clint-info first">大小：226M</p>
+<p class="clint-info">版本：iPhone版 V10.0.172</p>
+<p class="clint-info">适应系统：iOS9.0及以上版本</p>
+<p class="clint-info">更新时间：2020-03-22</p>
+<a class="clint-iphone clint-store" hidefocus="true" href="http://itunes.apple.com/cn/app/bai-du-wang-pan/id547166701?mt=8" target="_blank"></a>
+</div>
+</div>
+</div>
+<div class="ipad-content content">
+<div class="content-info">
+<div class="ipad-c clint" id="ipad-c">
+<p class="clint-info first">大小：216.9M</p>
+<p class="clint-info">版本：iPad版 V10.0.152</p>
+<p class="clint-info">适应系统：iOS9.0及以上版本</p>
+<p class="clint-info">更新时间：2020-03-18</p>
+<a class="clint-ipad clint-store" hidefocus="true" href="http://itunes.apple.com/cn/app/bai-du-yun-hd/id554602005?mt=8" target="_blank"></a>
+</div>
+</div>
+</div>
+<div class="wphone-content content" style="display:none">
+<div class="content-info">
+<div class="wphone-c clint" id="wphone-c">
+<p class="clint-info first">大小：3M</p>
+<p class="clint-info">版本：WinPhone版 V3.1.0</p>
+<p class="clint-info">适应系统：Windows Phone 7.5 及Windows Phone 8</p>
+<p class="clint-info">更新时间：2013-06-15</p>
+<a class="clint-wphone" hidefocus="true" href="http://www.windowsphone.com/zh-cn/store/app/%E7%99%BE%E5%BA%A6%E4%BA%91/59bf5640-85ae-4a6e-84f1-a61c074e667c" target="_blank"></a>
+</div>
+</div>
+</div>
+<div class="tongbupan-content content">
+<div class="content-info">
+<div class="mac-c clint" id="mac-c">
+<p class="clint-info first">大小：93.7 M</p>
+<p class="clint-info">版本：Mac版 V3.1.0</p>
+<p class="clint-info">适应系统：Mac OS X 10.10+</p>
+<p class="clint-info">更新时间：2020-04-15</p>
+<a class="clint-mac" hidefocus="true" href="http://wppkg.baidupcs.com/issue/netdisk/MACguanjia/BaiduNetdisk_mac_3.1.0.dmg"></a>
+</div>
+</div>
+</div>
+<div class="linux-content content">
+<div class="content-info">
+<div class="linux-c clint" id="linux-c">
+<p class="clint-info first">大小：65.6M</p>
+<p class="clint-info">版本：Linux版 V3.0.1</p>
+<p class="clint-info">适应系统：中标麒麟桌面操作系统软件（兆芯版） V7.0、Ubuntu V18.04</p>
+<p class="clint-info">更新时间：2019-11-22</p>
+<a class="clint-linux" hidefocus="true" href="http://wppkg.baidupcs.com/issue/netdisk/LinuxGuanjia/3.0.1/baidunetdisk_linux_3.0.1.2.rpm"></a>
+<a class="clint-linux-deb" hidefocus="true" href="http://wppkg.baidupcs.com/issue/netdisk/LinuxGuanjia/3.0.1/baidunetdisk_linux_3.0.1.2.deb"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="download-bottom">
+<div class="download-method clearfix">
+<div class="phone-method">
+<p class="line-text">免费发送短信下载移动客户端</p>
+<div class="line-info clearfix">
+<input class="phoneNumber" name="phoneNumber" type="text" value="请输入手机号">
+<input class="verifyCode" name="verifyCode" type="text" value="验证码">
+<img alt="验证码获取中" id="cap-img" src="./百度网盘 客户端下载_files/genimage">
+<a class="send_submit" hidefocus="true" href="https://pan.baidu.com/download#" id="send_submit"><b>发送短信</b></a>
+<p class="error-text"></p>
+</div>
+</div>
+<div class="two-dimension-code clearfix">
+<div class="two-dimension-code-text">
+<p class="first-text">扫描二维码下载</p>
+<p class="two-text">使用手机上的二维码扫描软件扫描，直接下载百度网盘。</p>
+</div>
+<div class="two-dimension-code-main">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div xmlns="http://www.w3.org/1999/xhtml">©2020 Baidu <div class="b-lnk-gy" href="javascript:;" id="teamwork">商务合作
+<div class="temawork-intr">
+<ul>
+<li><span>·</span>会员业务合作联系：wonglaye@baidu.com</li>
+<li><span>·</span>内容商城业务合作联系：bd_duxiaomai@baidu.com<a href="https://pan.baidu.com/mall/home?from=panhome" target="_blank">了解更多</a></li>
+<li><span>·</span>开放平台业务合作联系：mars-union@baidu.com<a href="https://pan.baidu.com/union?from=web" target="_blank">了解更多</a></li>
+</ul>
+</div>
+</div> | <a class="b-lnk-gy" href="https://pan.baidu.com/platform/home" target="_blank">移动开放平台</a> | <a class="b-lnk-gy" href="https://pan.baidu.com/disk/duty/" target="_blank">服务协议</a> | <a class="b-lnk-gy" href="http://yun.baidu.com/disk/privacy" target="_blank">权利声明</a> | <a class="b-lnk-gy" href="http://yun.baidu.com/disk/version" target="_blank">版本更新</a> | <a class="b-lnk-gy" href="http://yun.baidu.com/disk/help" target="_blank">帮助中心</a> | <a class="b-lnk-gy" href="http://copyright.baidu.com/index.php/index/complaint" target="_blank">版权投诉</a> | <a class="b-lnk-gy" href="http://e.baidu.com/?refer=1008" target="_blank">百度营销</a> | <a class="b-lnk-gy" href="https://pan.baidu.com/disk/certification" target="_blank">帐号认证</a></div>
+</div>
+<div class="download-dialog-mask"></div>
+<div class="download-dialog"></div>
+<script src="./百度网盘 客户端下载_files/download-all-min-local.js.ダウンロード" type="text/javascript"></script>
+<script type="text/javascript">var _bdhmProtocol=(("https:"==document.location.protocol)?" https://":" http://");document.write(unescape("%3Cscript src='"+_bdhmProtocol+"hm.baidu.com/h.js%3F7a3960b6f067eb0085b7f96ff5e660b0' type='text/javascript'%3E%3C/script%3E"));</script><script src="./百度网盘 客户端下载_files/h.js.ダウンロード" type="text/javascript"></script>
+
+</body></html>
