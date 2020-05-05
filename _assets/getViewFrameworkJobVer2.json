@@ -1,0 +1,699 @@
+[
+  {
+    "v_id": "11",
+    "v_stl": "na_banner",
+    "v_us": [
+      {
+        "type": 0,
+        "imgurl": [
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpggy1fzan5txr60j30u00bomxe.jpg"
+        ],
+        "des": [
+          ""
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product\/audio?pid=562949954192133",
+        "width": 1080,
+        "height": 420,
+        "tip": "待领取"
+      },
+      {
+        "id": 87,
+        "type": 0,
+        "imgurl": [
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpgly1fzpuf2ei3fj30u00bo75z.jpg"
+        ],
+        "des": [
+          ""
+        ],
+        "url": "https:\/\/pan.baidu.com\/mall\/wap\/banner?id=87&from=banner&clienttype=51",
+        "width": 1080,
+        "height": 420,
+        "tip": "待领取1111111",
+        "tip_type": 1
+
+      }
+    ]
+  },
+  {
+    "v_id": "12",
+    "v_stl": "na_guide",
+    "v_inf": {
+      "line_max": 5
+    },
+    "v_us": [
+      {
+        "des": [
+          "音视频库"
+        ],
+        "imgurl": [
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpggy1fz0g11y9i1j3044044gls.jpg"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio",
+        "tip": "待领取1111111"
+      },
+      {
+        "id": 19,
+        "des": [
+          "好书精讲"
+        ],
+        "imgurl": [
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpgly1g0f4zefg33j3044044t8v.jpg"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/query\/audio?keyword=æ¨\u008Aç\u0099»",
+        "tip": "待领取",
+        "tip_type": 1
+      }
+    ]
+  },
+  {
+    "v_id": "13",
+    "v_stl": "na_product_squared",
+    "v_des": [
+      "热门推荐"
+    ],
+    "v_inf": {
+      "line_max": 3,
+      "second_text": "price"
+    },
+    "v_us": [
+      {
+        "title": [
+          "全部"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio"
+      }
+    ],
+    "v_dt_p": [
+      {
+        "pid": "1266637396195614",
+        "third_pid": "",
+        "sid": "4",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "靠谱周教你投黄金：复杂黄金，简单投资",
+        "cid": 208,
+        "status": 1,
+        "old_price": 3900,
+        "price": 3900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "copyright": "空",
+          "podcasters": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 9,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "为什么说黄金是最佳配角",
+              "seqnum": 9,
+              "skuid": 9,
+              "update_time": 1551160094
+            }
+          }
+        }
+      },
+      {
+        "pid": "1266637395911283",
+        "third_pid": "",
+        "sid": "4",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "演讲训练营",
+        "cid": 200,
+        "status": 1,
+        "old_price": 4900,
+        "price": 4900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "本超"
+            }
+          ],
+          "podcasters": [
+            {
+              "name": "本超"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 6,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "演讲训练营第六节",
+              "seqnum": 6,
+              "skuid": 1266637395197958,
+              "update_time": 1551080010
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "v_id": "14",
+    "v_stl": "na_product_horizontal_list",
+    "v_des": [
+      "免费专区"
+    ],
+    "v_us": [
+      {
+        "title": [
+          "全部"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio"
+      }
+    ],
+    "v_dt_p": [
+      {
+        "pid": "1266637396195614",
+        "third_pid": "",
+        "sid": "4",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "靠谱周教你投黄金：复杂黄金，简单投资",
+        "cid": 208,
+        "status": 1,
+        "old_price": 3900,
+        "price": 3900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "copyright": "空",
+          "podcasters": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 9,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "为什么说黄金是最佳配角",
+              "seqnum": 9,
+              "skuid": 9,
+              "update_time": 1551160094
+            }
+          }
+        }
+      },
+      {
+        "pid": "1266637395911283",
+        "third_pid": "",
+        "sid": "4",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "演讲训练营",
+        "cid": 200,
+        "status": 1,
+        "old_price": 4900,
+        "price": 4900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "本超"
+            }
+          ],
+          "podcasters": [
+            {
+              "name": "本超"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 6,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "演讲训练营第六节",
+              "seqnum": 6,
+              "skuid": 1266637395197958,
+              "update_time": 1551080010
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "v_id": "15",
+    "v_stl": "na_product_page_view",
+    "v_des": [
+      "超级会员特价",
+      "超级会员专属特权，付费内容低价购"
+    ],
+    "v_us": [
+      {
+        "title": [
+          "查看全部"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio"
+      }
+    ],
+    "v_dt_p": [
+      {
+        "pid": "1266637396195614",
+        "third_pid": "",
+        "sid": "4",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "靠谱周教你投黄金：复杂黄金，简单投资",
+        "cid": 208,
+        "status": 1,
+        "old_price": 3900,
+        "price": 3900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "copyright": "空",
+          "podcasters": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 9,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "为什么说黄金是最佳配角",
+              "seqnum": 9,
+              "skuid": 9,
+              "update_time": 1551160094
+            }
+          }
+        }
+      },
+      {
+        "pid": "1266637395911283",
+        "third_pid": "",
+        "sid": "4",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "演讲训练营",
+        "cid": 200,
+        "status": 1,
+        "old_price": 4900,
+        "price": 4900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "本超"
+            }
+          ],
+          "podcasters": [
+            {
+              "name": "本超"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 6,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "演讲训练营第六节",
+              "seqnum": 6,
+              "skuid": 1266637395197958,
+              "update_time": 1551080010
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "v_id": "16",
+    "v_stl": "na_guide_squared",
+    "v_des": [
+      "优质店铺"
+    ],
+    "v_us": [
+      {
+        "id": "3",
+        "des ": [
+          "蜻蜓FM ",
+          "更多的世界， 用听的！ ",
+          "蜻蜓FM， 3 亿用户的选择！ 高晓松 "
+        ],
+        "imgurl": [
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpggy1fzan5txr60j30u00bomxe.jpg",
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpgly1fyup6y7lyij30u00b40wu.jpg"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio"
+      }
+    ]
+  },
+  {
+    "v_id": "17",
+    "v_stl": "na_image_squared",
+    "v_des": [
+      "热门图片"
+    ],
+    "v_us": [
+      {
+        "id": "308",
+        "des": [
+          "动物"
+        ],
+        "imgurl": [
+          "https:\/\/ws3.sinaimg.cn\/large\/005BYqpgly1fyup6y7lyij30u00b40wu.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "v_id": "18",
+    "v_stl": "web_content",
+    "v_us": [
+      {
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio"
+      }
+    ]
+  },
+  {
+    "v_id": "19",
+    "v_stl": "na_product_play_list",
+    "v_des": [
+      "今日必听",
+      "一键收听",
+      "暂停收听",
+      "继续收听"
+    ],
+    "v_us": [
+      {
+        "des": [
+          "查看全部"
+        ],
+        "url": "pmall:\/\/pan.baidu.com\/pmall\/product_list\/audio"
+      }
+    ],
+    "v_dt_p": [
+      {
+        "pid": "1266637395518425",
+        "skuid": "1266637395197953",
+        "third_pid": "",
+        "sid": "1",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "唱歌很难？其实不然！唱歌发音技巧课：手把手教你成为K歌之王, desc=这套Vusion教学法可更快地解决各种唱歌问题",
+        "cid": 208,
+        "status": 1,
+        "old_price": 3900,
+        "price": 3900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/d878cc5ba16ccaec42d01588036e6cbd?fid=2073169351-250528-952860954172888&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Req4ed+5T03+4Buj/HJKYFaAg1k=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "d878cc5ba16ccaec42d01588036e6cbd"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "copyright": "空",
+          "podcasters": [
+            {
+              "name": "周勇"
+            }
+          ],
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 9,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "为什么说黄金是最佳配角",
+              "seqnum": 9,
+              "skuid": 9,
+              "update_time": 1551160094
+            }
+          }
+        }
+      },
+      {
+        "pid": "985162418718168",
+        "skuid": "7990670",
+        "third_pid": "",
+        "sid": "3",
+        "stype": 2,
+        "sname": "个人讲师",
+        "title": "停止盲目努力001",
+        "cid": 200,
+        "status": 1,
+        "old_price": 4900,
+        "price": 4900,
+        "vip_price": 0,
+        "prod_type": 1,
+        "is_free": 0,
+        "thumb_info": [
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c200_u200&quality=100&vuk=-&ft=video",
+            "width": 200,
+            "height": 200,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c400_u400&quality=100&vuk=-&ft=video",
+            "width": 400,
+            "height": 400,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          },
+          {
+            "url": "http:\/\/pcsdata.baidu.com\/thumbnail\/5def50fef3ec294dd5bfe330178ee2ae?fid=2073169351-250528-337644625403048&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yHqVK4y7FCqqfIuTkJE5rQV4ssA=&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3933275482&dp-callid=0&time=1551164400&size=c800_u800&quality=100&vuk=-&ft=video",
+            "width": 800,
+            "height": 800,
+            "md5": "5def50fef3ec294dd5bfe330178ee2ae"
+          }
+        ],
+        "tid": 12,
+        "type": 2,
+        "spu_attr": {
+          "authors": [
+            {
+              "name": "本超"
+            }
+          ],
+          "podcasters": [
+            {
+              "name": "本超"
+            }
+          ],
+          "third_params": {
+            "channelId": "230872",
+            "programId": "7990670"
+          },
+          "source": "个人讲师",
+          "album_info": {
+            "is_finished": 1,
+            "free_type": 0,
+            "total_sku_cnt": 6,
+            "free_sku_cnt": 0,
+            "latest_sku_info": {
+              "name": "演讲训练营第六节",
+              "seqnum": 6,
+              "skuid": 1266637395197958,
+              "update_time": 1551080010
+            }
+          }
+        }
+      }
+    ]
+  }
+]

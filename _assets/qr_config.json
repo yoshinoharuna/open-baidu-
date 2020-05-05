@@ -1,0 +1,41 @@
+{
+  "platform": "android",
+  "next": "0",
+  "hideCategory": "1",
+  "menus": [],
+  "categoryConfs": {
+    "BARCODE": {
+      "default":"1",
+      "elements": [
+        {
+          "elementKey": "hotSearchButton",
+          "buttonShow": "0"
+        },
+        {
+          "elementKey": "takePhotoButton",
+          "buttonShow": "0"
+        },
+        {
+          "elementKey": "albumButton",
+          "buttonShow": "1"
+        },
+        {
+          "elementKey": "moreButton",
+          "buttonShow": "0"
+        },
+        {
+          "elementKey": "lightButton",
+          "buttonShow": "0"
+        },
+        {
+          "elementKey": "switchCameraButton",
+          "buttonShow": "0"
+        },
+        {
+          "elementKey": "closeButton",
+          "buttonShow": "1"
+        }
+      ]
+    }
+  }
+}

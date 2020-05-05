@@ -1,0 +1,23 @@
+{
+    "version_code": "10.0.30",
+    "service_channel_config": [
+        {"title" : "常用服务", "channelCode" : "1000", "itemType" : 5, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "相册", "channelCode" : "1001", "itemType" : 6, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "视频", "channelCode" : "1002", "itemType" : 6, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "笔记", "channelCode" : "1003", "itemType" : 6, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "小说", "channelCode" : "1016", "itemType" : 6, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "音频", "channelCode" : "1005", "itemType" : 6, "extras":"", "deeplink": "bdnetdisk://router/netdisk/native/audio/activity?category=2", "iconUrl":  ""},
+        {"title" : "更多", "channelCode" : "1006", "itemType" : 6, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "其它服务", "channelCode" : "1007", "itemType" : 8, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "微信备份", "channelCode" : "1004", "itemType" : 9, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "文件管理", "channelCode" : "1008", "itemType" : 9, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "找资源", "channelCode" : "1009", "itemType" : 9, "extras":"", "deeplink": "", "iconUrl":  ""},
+        {"title" : "文档", "channelCode" : "1010", "itemType" : 9, "extras":"", "deeplink": "bdnetdisk://router/netdisk/native/category/MyCategoryActivity?category=4", "iconUrl":  ""},
+        {"title" : "BT种子", "channelCode" : "1011", "itemType" : 9, "extras":"", "deeplink": "bdnetdisk://router/netdisk/native/category/MyCategoryActivity?category=7", "iconUrl":  ""},
+        {"title" : "应用", "channelCode" : "1012", "itemType" : 9, "extras":"", "deeplink": "bdnetdisk://router/netdisk/native/category/MyCategoryActivity?category=5", "iconUrl":  ""},
+        {"title" : "金山文档", "channelCode" : "1013", "itemType" : 9, "extras":"", "deeplink": "bdnetdisk://router/netdisk/native/WPSWebViewActivity?url=https%3A%2F%2Fpan.baidu.com%2Fthird%2Fm%2Fwps", "iconUrl":  ""},
+        {"title" : "图片美化", "channelCode" : "1014", "itemType" : 9, "extras":"", "deeplink": "bdnetdisk://router/netdisk/swan/service?url=bdnetdisk://swan/nxLZe4L08jeamM5gQOCbzZflU6eSD94O", "iconUrl":  ""},
+        {"title" : "冲印商城", "channelCode" : "1015", "itemType" : 9, "extras":"", "deeplink": "bdnetdisk://router/netdisk/swan/service?url=bdnetdisk://swan/WmNHLqqGtqfjqTEgURR7Cu5Py7DtWRWc", "iconUrl":  ""},
+        {"title" : "网盘实验室", "channelCode" : "1017", "itemType" : 9, "extras":"", "deeplink":  "bdnetdisk://router/netdisk/native/CommonWebViewActivity?url=https%3A%2F%2Fpan.baidu.com%2Fphoto%2Fwap%2Flaboratory", "iconUrl":  ""}
+    ]
+}

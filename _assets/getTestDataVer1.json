@@ -1,0 +1,89 @@
+{
+  "errno": 0,
+  "request_id": 3225025564,
+  "detail": {
+    "main": {
+      "title": "\u672c^哈哈^\u6708^vip_discount^\u6709^哈哈^\u4e00\u6b21^哈哈^\u673a\u4f1a\uff0c^vip_d^\u53ef\u514d^vip_discount^",
+      "subtitle": "",
+      "content": "",
+      "url": "",
+      "placeholder_value": {
+        "vip_discount": 499,
+        "哈哈": "嘿嘿嘿"
+      }
+    },
+    "hover": {
+      "title": "^哈哈^\u5c0a\u4eab^vip_d^\u4f18\u60e0^vip_d^",
+      "subtitle": "^哈哈^\u5c0a\u4eab^vip_d^",
+      "content": "^哈哈^\u5c0a\u4eab^vip_d^",
+      "url": "",
+      "placeholder_value": {
+        "vip_discount": 499,
+        "vip_d": "value",
+        "哈哈": "嘿嘿嘿"
+      }
+    },
+    "jump": {
+      "title": "\u53bb\u9886\u53d6",
+      "subtitle": "",
+      "content": "",
+      "url": "pmall:\/\/pan.baidu.com\/pmall\/web?url=https%3A%2F%2Fpan.baidu.com%2Fmall%2Fwap%2Fhome%23%2Fmember%3Fmpid%3D%5Epid%5E%26mskuid%3D%5Eskuid%5E",
+      "placeholder_value": {
+      }
+    }
+  },
+  "member": {
+    "main": {
+      "title": "\u672c^哈哈^\u6708^vip_discount^\u6709^哈哈^\u4e00\u6b21^哈哈^\u673a\u4f1a\uff0c^vip_d^\u53ef\u514d^vip_discount^",
+      "subtitle": "",
+      "content": "",
+      "url": "",
+      "placeholder_value": {
+        "vip_discount": 499,
+        "哈哈": "嘿嘿嘿"
+      }
+    },
+    "hover": {
+      "title": "^哈哈^\u5c0a\u4eab^vip_d^\u4f18\u60e0^vip_d^",
+      "subtitle": "^哈哈^\u5c0a\u4eab^vip_d^",
+      "content": "^哈哈^\u5c0a\u4eab^vip_d^",
+      "url": "",
+      "placeholder_value": {
+        "vip_discount": 499,
+        "vip_d": "value",
+        "哈哈": "嘿嘿嘿"
+      }
+    },
+    "jump": {
+      "title": "\u53bb\u9886\u53d6",
+      "subtitle": "",
+      "content": "",
+      "url": "pmall:\/\/pan.baidu.com\/pmall\/web?url=https%3A%2F%2Fpan.baidu.com%2Fmall%2Fwap%2Fhome%2Fmember%3Fmpid%3D2305861249939800091%26mskuid%3D0%26isgive%3D1",
+      "placeholder_value": {
+      }
+    }
+  },
+  "activity": {
+    "main": {
+      "title": "你可通过赠一得一方式免费领取当前内容",
+      "subtitle": "",
+      "content": "",
+      "url": "",
+      "placeholder_value": {
+        "vip_discount": 499,
+        "哈哈": "嘿嘿嘿"
+      }
+    },
+    "image": {
+      "icon_url": "https://pic.qingting.fm//channel//2018//06//14//130553f82a320c5b29224e1c476f0e6d.jpg!200"
+    },
+    "window": {
+      "title": "去赠送",
+      "subtitle": "",
+      "content": "",
+      "url": "pmall://pan.baidu.com/pmall/web?url=https%3A%2F%2Fpan.baidu.com%2Fmall%2Fwap%2Fhome%2Fmember%3Fmpid%3D%5Epid%5E%26mskuid%3D%5Eskuid%5E",
+      "placeholder_value": {
+      }
+    }
+  }
+}

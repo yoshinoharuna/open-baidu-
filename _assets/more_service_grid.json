@@ -1,0 +1,39 @@
+{
+  "grid_config": [{
+    "item_name": "aiapps",
+    "statistics": "aiapps_entrance_clicked",
+    "url": "bdnetdisk://router/netdisk/native/AiAppsSquareActivity",
+    "is_just_for_url": true
+  }, {
+    "item_name": "order",
+    "statistics": "order_click"
+  }, {
+    "item_name": "combined_vip",
+    "statistics": "combined_vip_click",
+    "is_just_for_url": true
+  }, {
+    "item_name": "free_vip",
+    "statistics": "free_vip_click",
+    "is_just_for_url": true
+  }, {
+    "item_name": "wallet",
+    "url": "bdnetdisk://router/netdisk/wallet/service?url=https://icash.baidu.com/cloan/index?na=cloudapp&CH=cloudapp&fr=bdcloud_and",
+    "statistics": "my_wallet_click",
+    "is_just_for_url": true
+  }, {
+    "item_name": "searchbox",
+    "statistics": "new_search_box_click_count",
+    "show_statistics": "search_box_entrance_shown",
+    "url": "baiduboxapp://utils?action=invokeCommand&minver=7.4&command=%7b%22mode%22%3a%220%22%2c%22intent%22%3a%22intent%3a%23Intent%3baction%3dcom.baidu.searchbox.action.HOME%3bcategory%3dandroid.intent.category.DEFAULT%3bend%22%2c%22min_v%22%3a%220%22%7d&needlog=1&logargs=%7b%22source%22%3a%221020418j%22%2c%22from%22%3a%22openbox%22%2c%22page%22%3a%22other%22%2c%22type%22%3a%22%22%2c%22value%22%3a%22%22%2c%22channel%22%3a%22%22%7d",
+    "target_error_url": "https://boxer.baidu.com/boxandroid?source=1020418j&from=1020418k",
+    "url_target_type": "1",
+    "is_just_for_url": true
+  }, {
+    "item_name": "singkil",
+    "statistics": "new_singkil_setting_click",
+    "request_code": "60",
+    "url": "bdnetdisk://router/netdisk/native/BindSingkilActivity",
+    "is_just_for_url": true
+  }],
+  "is_from_config": false
+}

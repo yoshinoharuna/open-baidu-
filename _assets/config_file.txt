@@ -1,0 +1,4 @@
+application_key=6uCdiOCWVVV8pXI7H16DvYWe
+upload_file_path=/apps/findmyphone/
+upload_prefix=https://pcs.baidu.com/rest/2.0/services/security/command?method=upload
+feedback_prefix=https://pcs.baidu.com/rest/2.0/services/security/command?method=feedback
