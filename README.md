@@ -4,3 +4,5 @@
 # I decompiled the Baidu SkyDrive APK for the above files. Isn't this simple?
 # Will I be topped by Baidu? Bastard Baidu.
 # Last update is already 12 days before, and I also looked at Trump Twitter but he was crazy.
+# tired
+# I don’t have any thoughts about source code ...
